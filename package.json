@@ -29,3 +29,5 @@
     "not op_mini all"
   ]
 }
+
+echo "hi how are you" > /tmp/t1.txt
